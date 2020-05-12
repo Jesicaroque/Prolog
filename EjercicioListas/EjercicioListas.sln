@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EjercicioListas", "EjercicioListas\EjercicioListas.fsproj", "{427F778F-2903-4108-9B62-A12478881661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{427F778F-2903-4108-9B62-A12478881661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427F778F-2903-4108-9B62-A12478881661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427F778F-2903-4108-9B62-A12478881661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427F778F-2903-4108-9B62-A12478881661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {328D45DD-A23F-47BB-AD20-B48D9B578014}
+	EndGlobalSection
+EndGlobal
